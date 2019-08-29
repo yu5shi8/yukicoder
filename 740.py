@@ -20,4 +20,4 @@ while leaf < n:
 
 print(i)
 
-# 9:42 - 
+# 9:42 - 10:11（AC）
